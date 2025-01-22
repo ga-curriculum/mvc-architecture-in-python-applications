@@ -5,6 +5,6 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [Flask](https://flask.palletsprojects.com/en/stable/)
+- [Django](https://www.djangoproject.com/)

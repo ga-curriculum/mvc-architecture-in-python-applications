@@ -19,7 +19,7 @@ To understand how MVC works, let's walk through an example of a **Books REST API
 
 4. **Model**: The model interacts with the database, retrieves the list of books, and sends the data back to the controller.
 
-5. **Controller**: The controller formats the data as needed (e.g., into JSON or a format the view expects).
+5. **Controller**: The controller formats the data as needed (ex: into JSON or a format the view expects).
 
 6. **View**: The view presents the data to the user. In a REST API, this could mean converting the data into a JSON payload.
 
