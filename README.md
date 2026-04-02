@@ -27,8 +27,8 @@ In this module, you'll explore the Model-View-Controller (MVC) pattern, a founda
 
 ### Course landing pages
 
-- [APD - Advanced Python for Developers](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/mvc-architecture-in-python-applications/canvas-landing-pages/apd.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/mvc-architecture-in-python-applications/canvas-landing-pages/fallback.html)
+- [APD - Advanced Python for Developers](https://ga-curriculum.github.io/mvc-architecture-in-python-applications/canvas-landing-pages/apd.html)
+- [Fallback](https://ga-curriculum.github.io/mvc-architecture-in-python-applications/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -40,4 +40,4 @@ In this module, you'll explore the Model-View-Controller (MVC) pattern, a founda
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
